@@ -7,3 +7,5 @@ This includes files for Project #1
 The repostiory incudes the following files: 
 - [Raw](Air_Quality_Raw_Data.csv)
 - [Notebook](Project1.ipynb)
+- [Scope of Work][ ]
+- 
